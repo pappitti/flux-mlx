@@ -53,7 +53,9 @@ Inference
 ---------
 
 Inference in this example is similar to the stable diffusion example. The
-classes to get you started are `FluxPipeline` from the `flux` module.
+classes to get you started are `FluxPipeline` from the `flux` module. 
+
+by default schnell is used. If you don't care about licence (dev is NC), you should probably use dev. Same size but better outputs
 
 ```python
 import mlx.core as mx
