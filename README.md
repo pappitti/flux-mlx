@@ -1,6 +1,8 @@
 FLUX
 ====
 
+this repo was forked from the mlx-examples repo[https://github.com/ml-explore/mlx-examples/tree/main/flux]. This Readme reflects the content of the original repo as of October 2024 and some notes regarding implementaion
+
 FLUX implementation in MLX. The implementation is ported directly from
 [https://github.com/black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 and the model weights are downloaded directly from the Hugging Face Hub.
